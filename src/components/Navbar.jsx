@@ -11,7 +11,7 @@ const Navbar = () => {
 
   return (
     <nav className="navbar">
-      <h2>🍍 Vida Sana</h2>
+      <h2>💻 Servicios Informáticos</h2>
       <div style={{ display: 'flex', alignItems: 'center' }}>
         <ul className="navbar-links">
           <li><Link to="/productos">Productos</Link></li>
