@@ -1,11 +1,6 @@
 # React + Vite
+Entrega final curso React JS de Talento Tech
+Alumno Paulo Orsini
 
-Entrega final Talento Tech
-
-Curso: REACT-JS
-Docente: Nicolás Riquelme
-Alumna: Mariana Gil - marianagil@gmail.com
-
-Para poder ingresar:
 Usuario: admin
 Clave: 1234
